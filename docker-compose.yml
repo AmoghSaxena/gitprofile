@@ -16,3 +16,4 @@ services:
 networks:
   vail:
     driver: bridge
+    

@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Rexter',
     description: '',
     imageURL: '',
   },
@@ -69,14 +69,14 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: 'https://www.amoghsaxena.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'hello@amoghsaxena.com',
   },
   resume: {
     fileUrl:
